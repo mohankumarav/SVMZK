@@ -4,7 +4,7 @@ We describe SVMZK – an efficient NIZK proof toolkit. Given commitments [a], [b
 is able to convince the verifier either one of the following relations:
 - Addition: a + b = c;
 - Subtraction: a − b = c;
--  Multiplication: a · b = c;
+-  Multiplication: a * b = c;
 -  Division: a/b = c;
 -  Equality: a = b;
 -  Comparison: a ≥ b;
